@@ -1,0 +1,31 @@
+10
+
+dir
+100
+svn+ssh://jnirty@eniac.seas.upenn.edu/home1/a/achicks/photozee/photozee/war/WEB-INF/deploy/photozee
+svn+ssh://jnirty@eniac.seas.upenn.edu/home1/a/achicks/photozee
+
+
+
+2011-12-12T23:21:49.363493Z
+82
+achicks
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+db4b4a0e-14ac-11e1-8d30-3bdd39053258
+
+rpcPolicyManifest
+dir
+

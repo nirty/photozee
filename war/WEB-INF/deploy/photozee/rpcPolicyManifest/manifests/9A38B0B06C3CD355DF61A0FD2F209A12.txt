@@ -1,0 +1,2 @@
+serviceClass: com.cis550.photozee.client.HomePageService
+path: FCF2C5B1B326D1F6E5AEC4A25AECE6E1.gwt.rpc

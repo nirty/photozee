@@ -1,0 +1,2 @@
+serviceClass: com.cis550.photozee.client.UserProfileService
+path: 8CD0EA961301BCFBCA50B00A325C39F5.gwt.rpc

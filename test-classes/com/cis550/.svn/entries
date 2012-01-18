@@ -1,0 +1,31 @@
+10
+
+dir
+100
+svn+ssh://jnirty@eniac.seas.upenn.edu/home1/a/achicks/photozee/photozee/test-classes/com/cis550
+svn+ssh://jnirty@eniac.seas.upenn.edu/home1/a/achicks/photozee
+
+
+
+2011-11-30T00:18:59.429139Z
+4
+achicks
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+db4b4a0e-14ac-11e1-8d30-3bdd39053258
+
+photozee
+dir
+

@@ -1,0 +1,2 @@
+serviceClass: com.cis550.photozee.client.LoginService
+path: 208BC5D419D9288C32195EB71691CDC6.gwt.rpc

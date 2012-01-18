@@ -1,0 +1,2 @@
+serviceClass: com.cis550.photozee.client.GreetingService
+path: B5CEE79E9F970A117D5C9FC47764237B.gwt.rpc
