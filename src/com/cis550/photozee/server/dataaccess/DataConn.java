@@ -8,11 +8,11 @@ import java.sql.SQLException;
 
 public class DataConn {
 	
-	static String url = "jdbc:mysql://fling.seas.upenn.edu:3306/jnirty";
-	static String db = "jnirty";
+	static String url = "*************************************";
+	static String db = "**********";
     static String driver = "com.mysql.jdbc.Driver";
-    static String user  = "jnirty";
-    static String pass  = "SQL4545";
+    static String user  = "*************";
+    static String pass  = "***********";
 	
 	private DataConn(){
 		
